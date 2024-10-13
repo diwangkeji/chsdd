@@ -3,7 +3,7 @@
 - [Enigma群说明](/eghelp.md)
 - [说明书使用方法](/00/uplist.md)
 - [游戏模式切换方法](/00/uplist.md)
-- [服务端架构图](/00/uplist.md)
+- [服务端架构图](/server/jiagou.md)
 - [彩虹相关说明](/00/uplist.md)
 
 - 彩虹引擎更新日志
