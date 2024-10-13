@@ -473,6 +473,7 @@ WolServer（服务器端目录）
 │　└ SelGate.exe （角色服务器程序）
 
 │ 
+
 ├ LoginGate（登陆服务器目录） 
 
 │　├ LoginGate.exe （登陆服务器程序） 
@@ -480,8 +481,12 @@ WolServer（服务器端目录）
 │　├ Config.txt （登陆网关配置文件）
 
 │　├ BlockIPList 
+
 │　└ BlockIPAreaLis
+
 │ 
 └ GameCenter.exe （游戏控制器） 
+
 ├ Config.ini（游戏控制器配置文件） 
+
 └ TaskList.txt（智能开区任务配置文件）
